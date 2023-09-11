@@ -14,7 +14,7 @@ Submission guide: https://iclr-blogposts.github.io/2023/submitting
 ### Track Chairsaegaeg
 
 - Gauthier Gidel, Mila, UdeMsdhaehg
-- Charlie Gauthier, Mila, UdeM
+- Charlie Gauthier, Mila, UdeMaegaeg
 - David Dobre, Mila, UdeM
 - Claire Vernade, University of Tuebingen
 - Joan Bruna, NYU
