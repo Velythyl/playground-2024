@@ -67,7 +67,7 @@ _styles: >
 Note: please use the table of contents as defined in the front matter rather than the traditional markdown styling.
 
 ## Equations
-
+aeageag
 This theme supports rendering beautiful math in inline and display modes using [MathJax 3](https://www.mathjax.org/) engine.
 You just need to surround your math expression with `$$`, like `$$ E = mc^2 $$`.
 If you leave it inside a paragraph, it will produce an inline expression, just like $$ E = mc^2 $$.
