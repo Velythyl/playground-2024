@@ -57,7 +57,7 @@ jobs:
             issue_number: context.issue.number,
             owner: context.repo.owner,
             repo: context.repo.repo,
-            body: '👋 Thanks for your submission! \n\nHowever, you are not allowed to change these files: ${{ steps.pythonfilter.outputs.offendingfiles }}\n\nPlease revert or remove the offending files back to their original version and re-submit :)'
+            body: '👋 Thanks for your submission! \n\n${{ steps.pythonfilter.outputs.offendingfiles }}\n\nPlease make the aforementioned changes and re-submit :)'
           })
     - name: Setup Ruby
       if: steps.pythonfilter.outcome == 'success'
