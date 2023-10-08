@@ -16,7 +16,7 @@ if re.match(SLUG_TEMPLATE, SLUG) is None:
     print(f"The template: {SLUG_TEMPLATE}")
     print("PATHFILTERFAILED")
     SUCCESS = False
-    OUTPUT_MSG = f"Your PR title does not match the slug template, which is <{SLUG_TEMPLATE}>"
+    OUTPUT_MSG = f"Your PR title does not match the slug template, which is <{SLUG_TEMPLATE}>."
 
 CHANGED_FILES = sys.argv[2:]
 ACCEPTABLE_PATHS = [
