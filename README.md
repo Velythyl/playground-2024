@@ -16,7 +16,7 @@ Submission guide: https://iclr-blogposts.github.io/2023/submitting
 - Gauthier Gidel, Mila, UdeM
 - Charlie Gauthier, Mila, UdeM
 - David Dobre, Mila, UdeM
-- Claire Vernade, University of Tuebingen
+- Claire Vernade, University of TuebingenEgaegaeg
 - Joan Bruna, NYU
 
 &nbsp;
