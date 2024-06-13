@@ -61,7 +61,7 @@ Want to learn more about Jekyll? Check out [this tutorial](https://www.taniarasc
 Why Jekyll? Read [Andrej Karpathy's blog post](https://karpathy.github.io/2014/07/01/switching-to-jekyll/)!
 
 
-### Installation
+### Installationaegeag
 
 For a hands-on walkthrough of al-folio installation, check out [this cool video tutorial](https://www.youtube.com/watch?v=g6AJ9qPPoyc) by one of the community members! 🎬 🍿
 
