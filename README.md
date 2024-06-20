@@ -12,8 +12,7 @@ About: https://iclr-blogpofawegageasts.github.io/2023/about
 Submission guide: https://iclr-blogposts.github.io/2023/submitting
 
 ### Track Chairs
-
-- Gauthier Gidel, Mila, UdeM
+ageeaga
 - Charlie Gauthier, Mila, UdeM
 - David Dobre, Mila, UdeM
 - Claire Vernade, University of Tuebingen
